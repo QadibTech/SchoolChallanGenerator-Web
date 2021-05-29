@@ -1,0 +1,53 @@
+{
+    "title": "Cookum",
+    "dashboard": "Dashboard",
+    "menu": "Menu",
+    "orders": "Orders",
+    "customers" : "Customers",
+    "total_customers" : "Total Customers",
+    "offers_and_promotions": "Offers & Promotions",
+    "reservations": "Reservations",
+    "total_earnings" : "Total Earnings",
+    "total_orders" : "Total Orders",
+    "in_time_orders" : "Ontime Orders",
+    "missed_orders" : "Missed Orders",
+    "inaccurate_orders" : "Inaccurate Orders",
+    "canceled_orders" : "Canceled Orders",
+    "popular_days" : "Popular Days",
+    "popular_dishes" : "Popular Dishes",
+    "popular_customers" : "Popular Customers",
+    "hello" : "Hello",
+
+    "profile": {
+        "reset_password": {
+            "label": "Reset Password",
+            "username": "Username",
+            "password": "password"
+        }
+    },
+    "clicked": {
+        "zero": "You clicked {} times!",
+        "one": "You clicked {} time!",
+        "two": "You clicked {} times!",
+        "few": "You clicked {} times!",
+        "many": "You clicked {} times!",
+        "other": "You clicked {} times!"
+    },
+    "amount": {
+        "zero": "Your amount : {} ",
+        "one": "Your amount : {} ",
+        "two": "Your amount : {} ",
+        "few": "Your amount : {} ",
+        "many": "Your amount : {} ",
+        "other": "Your amount : {} "
+    },
+    "gender": {
+        "male": "Hi man ;) ",
+        "female": "Hello girl :)",
+        "with_arg": {
+            "male": "Hi man ;) {}",
+            "female": "Hello girl :) {}"
+        }
+    },
+    "reset_locale": "Reset Language"
+}

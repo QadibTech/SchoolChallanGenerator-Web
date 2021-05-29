@@ -1,0 +1,53 @@
+{
+    "title": "کوکوم",
+    "dashboard": "لوحة القيادة",
+    "menu": "قائمة",
+    "orders": "الطلبات",
+    "offers_and_promotions": "العروض والترقيات",
+    "reservations": "التحفظات",
+    "customers" : "عملاء",
+    "total_customers" : "إجمالي العملاء",
+    "total_earnings" : "الأرباح الكلية",
+    "total_orders" : "إجمالي الطلبات",
+    "in_time_orders" : "في الوقت المناسب",
+    "missed_orders" : "الطلبات الفائتة",
+    "inaccurate_orders" : "أوامر غير دقيقة",
+    "canceled_orders" : "الطلبات الملغاة",
+    "popular_days" : "أيام شعبية",
+    "popular_dishes" : "أطباق شعبية",
+    "popular_customers" : "الأكثر شعبية",
+
+
+    "profile": {
+        "reset_password": {
+            "label": "اعادة تعين كلمة السر",
+            "username": "المستخدم",
+            "password": "كلمة السر"
+        }
+    },
+    "clicked": {
+        "zero": "لم تنقر بعد!",
+        "one": "لقد نقرت مرة واحدة!",
+        "two": "لقد قمت بالنقر مرتين!",
+        "few": " لقد قمت بالنقر {} مرات!",
+        "many": "لقد قمت بالنقر {} مرة!",
+        "other": "{} نقرة!"
+    },
+    "amount": {
+        "zero": "المبلغ : {}",
+        "one": " المبلغ : {}",
+        "two": " المبلغ : {}",
+        "few": " المبلغ : {}",
+        "many": " المبلغ : {}",
+        "other": " المبلغ : {}"
+    },
+    "gender": {
+        "male": " مرحبا يا رجل",
+        "female": " مرحبا بك يا فتاة",
+        "with_arg": {
+            "male": "{} مرحبا يا رجل",
+            "female": "{} مرحبا بك يا فتاة"
+        }
+    },
+    "reset_locale": "إعادة ضبط اللغة"
+}
