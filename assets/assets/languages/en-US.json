@@ -16,7 +16,236 @@
     "popular_days" : "Popular Days",
     "popular_dishes" : "Popular Dishes",
     "popular_customers" : "Popular Customers",
-    "hello" : "Hello",
+    "hello_user" : "Hello, {}!",
+    "save_button" : "Save",
+    "cancel_button" : "Cancel",
+
+    "go_to_profile" : "Go to Profile",
+    "logout" : "Log out",
+
+
+    "***auth_locale_keys***" : "************Authentication Locale Keys*************",
+
+    "back": "Back",
+    "login_to_your_account": "Login to your account",
+    "email": "Email",
+    "password": "Password",
+    "invalid_email_msg": "Enter valid Email",
+    "invalid_password_msg": "Enter valid Password",
+    "invalid_password_length_msg": "Enter valid Password",
+    "forgot_password": "Forgot Password",
+    "login": "Login",
+    "sign_up": "Sign Up",
+    "dont_have_an_account": "Don't have an account",
+    "enter_your_password": "Enter your password",
+    "enter_your_email": "Enter your email",
+    "your_time": "Your Time",
+    "your_priorities": "Your Priorities",
+    "partner_with_as_cook": "Partner with as Cook",
+    "sign_in": "Sign In",
+    "your_name": "Your Name*",
+    "your_name_hint": "Your full name",
+    "nick_name_hint": "This name will be displayed for all users",
+    "nick_name_exists": "Nickname already exists",
+    "nick_name":  "Nick Name*",
+    "address": "Address*",
+    "address_hint":  "Enter your full address",
+    "country": "Country*",
+    "country_code" : "Country Code",
+    "mobile_no": "Mobile No*",
+    "mobile_no_hint": "Enter your Mobile No",
+    "email_address": "Email Address*",
+    "email_address_hint": "Enter your email address ",
+    "email_address_exists": "Email address already exists ",
+    "choose_a_password": "Choose a password*",
+    "choose_a_password_hint": "Enter a valid password",
+    "Invalid_password_hint": "Enter 8 chars long password",
+    "confirm_your_password": "Confirm your password*",
+    "confirm_your_password_hint": "Confirm your password",
+    "already_have_an_account": "Already have an account?",
+    "continue": "Continue",
+    "terms_and_conditions":"I agree to Cookum General Terms & conditions and acknowledge you have read the privacy policy",
+    "forgot_password_message":"Enter your email address to receive a code to reset the password",
+    "send_code":"Send Code",
+    "resend_code":"Resend Code",
+    "confirm_code":"Confirm your code",
+    "confirm_code_hint":"Enter the code we sent over the email",
+    "didnt_get_code":"Didn't get the code?",
+
+    "terms_and_conditions_invalid":"Required",
+    "invalid_name":"Enter valid name",
+    "invalid_nickname":"Enter valid nickname",
+    "invalid_address":"Enter valid address",
+    "invalid_mobile_no":"Enter valid mobile no",
+    "invalid_password_length":"Password must be 8 characters long",
+    "passwords_do_not_match":"Passwords do not match",
+
+
+
+
+    "***comment***" : "************Profile Locale Keys*************",
+
+
+    "upload_photo": "Upload Photo",
+    "reviews": "{} Reviews",
+    "personal_info": "Personal Info",
+    "change_password": "Change Password",
+    "payments_and_payouts": "Payment & Payouts",
+    "notifications": "Notifications",
+    "edit_account": "Edit Account",
+    "about_you": "About you",
+    "phone": "Phone",
+    "govt_id": "Government ID",
+    "language": "Language",
+    "gender": "Gender",
+    "select_gender": "Select Gender",
+    "select_language": "Select Language",
+    "current_address": "Current Address",
+    "permanent_address": "Permanent Address",
+    "current_password": "Current Password",
+    "current_password_hint": "Enter current password",
+    "new_password_hint": "Enter New Password",
+    "new_password": "New Password",
+    "confirm_password": "Confirm Password",
+    "confirm_password_hint": "Confirm new password",
+    "add_account": "Add Account",
+    "account_name": "Account Name",
+    "bank_name": "Bank Name",
+    "select_bank": "Select Bank",
+    "branch_no": "Branch No.",
+    "account_no": "Account Number",
+    "tax_file_no": "Tax File Number",
+    "withdraw_options": "Withdraw Options",
+    "select_withdraw_options": "Select Withdraw Options",
+    "invalid_account_name": "Enter valid account name",
+    "invalid_branch_no": "Enter valid branch no",
+    "invalid_account_no": "Enter valid account no",
+    "invalid_tax_file_no": "Enter valid tax file no",
+
+    "select_withdraw_option": "Select Withdraw Options",
+    "male": "Male",
+    "female": "Female",
+    "not_Defined": "Not Defined",
+
+
+
+
+    "*******Landing Page Header********": "********Landing Page Header Keys**********",
+
+
+
+    "order_your_meal": "Order your meal from\nnearby homes" ,
+    "get_started": "Get Started",
+    "enter_delivery_address": "Enter delivery address",
+
+
+
+    "*******Landing Page Mid Screen********": "********Landing Page Mid Screen Keys**********",
+
+
+    "become_chef": "Become a Chef",
+    "grow_your_business": "Grow Your Business and reach new\ncustomers by partnering with us",
+    "Partner_with_Cookumm": "Partner with Cookumm",
+    "Eat_Healthy_and_Fresh": "Eat Healthy and Fresh",
+    "Order_your_favorite": "Order your favorite and traditional food from\ndifferent regions.Its homemade and healthy",
+    "Order_Now": "Order Now",
+    "Become_a_Rider": "Become a Rider",
+    "We_want_to_connect": "We want to connect as many people as\npossible with so we all grow together",
+    "Sign_up_Now": "Sign up Now",
+    "Everyone_is_welcome": "Everyone is welcome.",
+    "From_Your_neighborhood": "From Your neighborhood sushi spot to the\nburger and fries you crave. We Invite everyone\nfrom small business to giant restaurants to\ncome to our platform and give a little\nperspective to your customers",
+    "Explore_what_you_love": "Explore what you love most",
+    "From_Your_neighborhood_sushi": "From Your neighborhood sushi spot to the burger and fries you crave.\nWe Empower the small business and talented people who are good at\nwhat they do.",
+    "Most_Recommended": "Most Recommended",
+    "Asian": "Asian",
+    "Indian": "Indian",
+    "Italian": "Italian",
+    "Mexican": "Mexican",
+    "See_All": "See All",
+    "Load_More": "Load More",
+
+
+
+
+    "*******Landing Page Footer********": "********Landing Page Footer Keys**********",
+
+
+    "About_Cookumm": "About Cookumm",
+    "Read_our_blog": "Read our blog",
+    "Donate_a_meal": "Donate a meal",
+    "Create_a_Business_Account": "Create a Business Account",
+    "Add_your_restaurant": "Add your restaurant",
+    "Sign_Up_to_deliver": "Sign Up to deliver",
+    "Get_Help": "Get Help",
+    "Read_FAQs": "Read FAQs",
+    "View_all_cities": "View all cities",
+    "View_all_countries": "View all countries",
+    "Restaurants_near_me": "Restaurants near me",
+    "Meet_Our_wonderful_team": "Meet Our wonderful team",
+    "We_are_just_a_bunch_of_fellow": "We are just a bunch of fellow humans dedicated to make a living\nimpact for the betterment of mankind.Our passionate team is always\nworking tirelessly on new ways to build the experimental communication\nbetween customers, chefs and riders.",
+    "Submit": "Submit",
+    "Subscribe_to_our_weekly_newsletter": "Subscribe to our weekly newsletter",
+
+
+
+
+    "*******Chef Menu Page********": "********Chef Menu Page Keys**********",
+
+
+    "Add_a_Category": "Add a Category",
+    "Chef_Reviews": " 215 Reviews",
+    "Chef_Joining":  "Joined on {}",
+    "Cover_Photo":  "Cover Photo",
+    "Sort_By":     "Sort By",
+    "By_Name":     "By Name",
+    "By_Price":     "By Price",
+    "save":        "Save",
+    "Add_a_New_Item": "Add a New Item",
+    "Update_Item": "Update Item",
+    "Clone_Item": "Clone Item",
+    "Enter_Name": "Enter Name",
+    "Price": "Price",
+    "Enter_Correct_Price": "Please Enter Correct Price",
+    "Orders_Per_Day": "Orders Per Day",
+    "Enter_Valid_Orders": "Please Enter Valid Orders",
+    "details_about_category": "Write down the details about category to\nmanage it better",
+    "Enter_Detail": "Please Enter Detail",
+    "Drop_the_File_here": "Drop the File here",
+    "Upload_Here": "Upload Here",
+    "When_is_the_dish_available": "When is the dish available?",
+    "Add_More": "Add More",
+    "Cancel": "Cancel",
+    "Clone": "Clone",
+    "Update": "Update",
+    "Enter_Discount": "Enter Discount",
+    "From": "From",
+    "To": "To",
+    "morning_time": "am",
+    "evening_time": "pm",
+    "Add_an_Item": "Add an Item",
+    "Add_a_New_Category":   "Add a New Category",
+    "Enter_Category_Name":   "Enter Category Name",
+    "Enter_Category_Detail":    "Enter Category Detail",
+    "Category_Name_Already_Exist":   "Category Name Already Exist",
+
+
+
+    "*******days********": "********Days Keys**********",
+
+    "sunday": "Sunday",
+    "monday":"Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "Select_Day": "Select Day",
+    "Everyday": "Everyday",
+    "Monday_to_Friday": "Monday to Friday",
+    "Friday_to_Sunday": "Friday to Sunday",
+
+
+
 
     "profile": {
         "reset_password": {
@@ -40,14 +269,6 @@
         "few": "Your amount : {} ",
         "many": "Your amount : {} ",
         "other": "Your amount : {} "
-    },
-    "gender": {
-        "male": "Hi man ;) ",
-        "female": "Hello girl :)",
-        "with_arg": {
-            "male": "Hi man ;) {}",
-            "female": "Hello girl :) {}"
-        }
     },
     "reset_locale": "Reset Language"
 }
