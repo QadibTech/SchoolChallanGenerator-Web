@@ -26,6 +26,9 @@
 
   "***auth_locale_keys***": "************Authentication Locale Keys*************",
   "back": "عودة",
+
+  "reset_password": "إعادة تعيين كلمة المرور",
+  "reset_your_password": "اعد ضبط كلمه السر",
   "login_to_your_account": "تسجيل الدخول إلى حسابك",
   "email": "بريد إلكتروني",
   "password": "كلمه السر",
@@ -35,7 +38,7 @@
   "forgot_password": "هل نسيت كلمة السر",
   "login": "تسجيل الدخول",
   "sign_up": "اشتراك",
-  "dont_have_an_account": "ليس لديك حساب",
+  "dont_have_an_account": "ليس لديك حساب ⸮ ",
   "enter_your_password": "ادخل رقمك السري",
   "enter_your_email": "أدخل بريدك الإلكتروني",
   "your_time": "وقتك",
@@ -110,6 +113,13 @@
   "female": "أنثى",
   "not_Defined": "غير معرف",
   "Choose_your_Avatar": "اختر الصورة الرمزية الخاصة بك",
+  "password_successfully_changed": "الرقم السري تغير بنجاح",
+  "current_Password_is_Incorrect": "كلمة المرور الحالية غير صحيحة",
+  "something_went_Wrong":"هناك خطأ ما",
+  "successfully_uploaded":"تم الرفع بنجاح",
+  "Okay":"تمام",
+  "success":"نجاح",
+  "error":"خطأ",
 
   "*******Landing Page Header********": "********Landing Page Header Keys**********",
   "order_your_meal": "اطلب وجبتك من\nالمنازل المجاورة",

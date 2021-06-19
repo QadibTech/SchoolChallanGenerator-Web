@@ -27,6 +27,8 @@
     "***auth_locale_keys***" : "************Authentication Locale Keys*************",
 
     "back": "Back",
+    "reset_password": "Reset Password",
+    "reset_your_password": "Reset your Password",
     "login_to_your_account": "Login to your account",
     "email": "Email",
     "password": "Password",
@@ -36,7 +38,7 @@
     "forgot_password": "Forgot Password",
     "login": "Login",
     "sign_up": "Sign Up",
-    "dont_have_an_account": "Don't have an account",
+    "dont_have_an_account": "Don't have an account? ",
     "enter_your_password": "Enter your password",
     "enter_your_email": "Enter your email",
     "your_time": "Your Time",
@@ -79,6 +81,14 @@
     "invalid_mobile_no":"Enter valid mobile no",
     "invalid_password_length":"Password must be 8 characters long",
     "passwords_do_not_match":"Passwords do not match",
+    "password_successfully_changed": "Password Successfully Changed",
+    "current_Password_is_Incorrect": "Current Password is Incorrect",
+    "something_went_Wrong":"Something went Wrong",
+    "successfully_uploaded":"Successfully Uploaded",
+    "Okay":"Okay",
+    "success":"Success",
+    "error":"Error",
+
 
 
 
